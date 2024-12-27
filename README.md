@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil Sou jovem  apaixonado por programação, tecnologia e po
 - 🌱 Estou aprofundado os meus conhecimentos em  Docker e nodejs .
 - 👯 Estou procurando colaborar em projectos de código aberto e soluções tecnológicas inovadoras.
 - 📫 Como me contatar: sabalozua@outlook.pt
-- ⚡ Fato curioso: gosto muito de compartilhar o meu conhecimento com os outros, pois acho que conhemimento a é para ser compartihado.
+- ⚡ Fato curioso: gosto muito de compartilhar o meu conhecimento com os outros, pois acho que conhemimento  é para ser compartihado.
 
 ## Linguagens e Ferramentas
 
